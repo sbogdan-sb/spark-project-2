@@ -1,1 +1,1 @@
-Using spark dataframes to analyze Tweets
+Learning spark dataframes with an application to analyze Tweets.
